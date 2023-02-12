@@ -13,4 +13,6 @@ Collection of Pytorch model implementations for my reference and practice.
 ### Common Machine Learning Models
 1. Linear Regression - [Scratch](https://github.com/vedanthv/pytorch-implementations/blob/main/linearRegressionScratch.py) | [Concise](https://github.com/vedanthv/pytorch-implementations/blob/main/linearRegressionConcise.py)
 
+### Convolutional Neural Networks
 
+1. Basic 2D Conv Net with 2 Max Pool Layers - [Code](https://github.com/vedanthv/pytorch-implementations/blob/main/ConvNets/conv2d.py)
